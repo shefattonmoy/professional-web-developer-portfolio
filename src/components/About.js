@@ -80,7 +80,7 @@ const About = () => {
                 <Link to="contact">Contact Me</Link>
               </button>
               <a
-                href="https://drive.google.com/file/d/1wVxHGaL0Qk8Ouiai6_dvSKPLwhEFTupK/view?usp=drive_link"
+                href="https://mega.nz/file/68AVXTST#6hi4qdNODodBElTF0M9wIUv743jWdBhXySaLxUE4El8"
                 className="text-gradient btn-link" target="blank"
               >
                 My Portfolio
