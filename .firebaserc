@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "shefat-tonmoy-a6757"
-  }
+    "default": "shefat-tonmoy-a6757",
+    "staging": "shefat-tonmoy-a6757"
+  },
+  "targets": {},
+  "etags": {}
 }
