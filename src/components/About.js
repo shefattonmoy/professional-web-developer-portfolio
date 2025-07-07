@@ -29,7 +29,7 @@ const About = () => {
           >
             <h2 className="h2 text-accent">About Me</h2>
             <h3 className="h3 mb-4">
-              I'm a Full Stack Developer with over 2 years of experience
+              I'm a Full Stack Developer with over 3 years of hands-on experience
             </h3>
             <p className="mb-6">
               I am the maestro of tech fusion, blending code and design to
@@ -38,15 +38,16 @@ const About = () => {
               groundbreaking innovations. Let's collaborate to turn visions into
               awe-inspiring digital realities.
             </p>
-            <div className="flex gap-x-6 lg:gap-x-10 mb-12">
+            <div className="flex gap-x-6 lg:gap-x-20 mb-12">
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
                   {InView ? (
                     <CountUp start={0} end={3} duration={3}></CountUp>
                   ) : null}
+                  +
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
-                  Years of <br />
+                  Years of Hands-on<br />
                   Experience
                 </div>
               </div>
@@ -62,25 +63,13 @@ const About = () => {
                   Completed
                 </div>
               </div>
-              <div>
-                <div className="text-[40px] font-tertiary text-gradient mb-2">
-                  {InView ? (
-                    <CountUp start={0} end={20} duration={3}></CountUp>
-                  ) : null}
-                  +
-                </div>
-                <div className="font-primary text-sm tracking-[2px]">
-                  Satisfied <br />
-                  Clients
-                </div>
-              </div>
             </div>
-            <div className="flex gap-x-8 items-center">
+            <div className="flex gap-x-20 items-center">
               <button className="btn btn-lg">
                 <Link to="contact">Contact Me</Link>
               </button>
               <a
-                href="https://drive.google.com/file/d/1lccPIhGh5ket9Php7MjSOoOSfm8_q29i/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1DuXSbjx9Ee1x4ftERBH2ZUek8Ou9bGRV/view?usp=drive_link"
                 className="text-gradient btn-link" target="blank"
               >
                 My Portfolio
