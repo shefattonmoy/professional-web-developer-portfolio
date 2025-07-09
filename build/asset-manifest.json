@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.54acaaf8.css",
-    "main.js": "./static/js/main.6d311a68.js",
+    "main.js": "./static/js/main.3eb451f4.js",
     "static/media/shefat-circle.png": "./static/media/shefat-circle.c55ab121f334024d3160.png",
     "static/media/shefat-02-circle.png": "./static/media/shefat-02-circle.febd842895b0481ad4fd.png",
     "static/media/project-03.png": "./static/media/project-03.fef456e87d220f27f7c7.png",
@@ -11,10 +11,10 @@
     "static/media/services.png": "./static/media/services.8e66d4fbbd95de45b8db.png",
     "index.html": "./index.html",
     "main.54acaaf8.css.map": "./static/css/main.54acaaf8.css.map",
-    "main.6d311a68.js.map": "./static/js/main.6d311a68.js.map"
+    "main.3eb451f4.js.map": "./static/js/main.3eb451f4.js.map"
   },
   "entrypoints": [
     "static/css/main.54acaaf8.css",
-    "static/js/main.6d311a68.js"
+    "static/js/main.3eb451f4.js"
   ]
 }
