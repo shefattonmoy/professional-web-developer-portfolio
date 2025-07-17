@@ -75,7 +75,7 @@ const Banner = () => {
                 <Link to="contact">Contact Me</Link>
               </button>
               <a
-                href="https://drive.google.com/file/d/1-o20nbomsbkxFbl_nLj5zPM3fN9Xp3wF/view?usp=sharing"
+                href="https://drive.google.com/file/d/1HTfAXRf5jmrCzxY9DpuMPl8-VxK--bCO/view?usp=sharing"
                 className="text-gradient btn-link" target="blank"
               >
                 My Portfolio
