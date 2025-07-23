@@ -69,7 +69,7 @@ const About = () => {
                 <Link to="contact">Contact Me</Link>
               </button>
               <a
-                href="https://drive.google.com/file/d/1NB9lP1f-FDwsQh4UhEkHM9ivsr2hTabj/view?usp=sharing"
+                href="https://drive.google.com/file/d/1CfIQTJTgOovcG40FNlpVJDh9Pba2Nd2y/view?usp=sharing"
                 className="text-gradient btn-link" target="blank"
               >
                 My Portfolio
